@@ -1,5 +1,1 @@
-<source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.webp" type="image/webp">
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="32" height="32">
-<nobr>
-# Hi there 
-</nobr>
+# <span><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" width="32" height="32"> Hi there</span>
