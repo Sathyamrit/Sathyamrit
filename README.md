@@ -1,8 +1,8 @@
-# <span><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" width="32" height="32"> Hi there</span>
+# <span align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" width="32" height="32"> Hi there</span>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
   <!-- bash -->
   <a href="https://www.gnu.org/software/bash/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
