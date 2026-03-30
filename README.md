@@ -1,4 +1,4 @@
-# <span><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" width="32" height="32"> Tech Stack</span>
+# <span><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" width="32" height="32"> Hi there</span>
 
 <h3 align="center">Languages, Tools & Infrastructure:</h3>
 
@@ -26,9 +26,6 @@
   </a>
   <a href="https://cloud.google.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="50"/>
-  </a>
-  <a href="https://azure.microsoft.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50"/>
   </a>
 </p>
 
