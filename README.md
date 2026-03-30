@@ -4,13 +4,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,bash,react,nextjs,nodejs,tailwind&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,bash,react,nodejs,tailwind&theme=dark" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,linux,docker,kubernetes,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,linux,docker,git&theme=dark" />
   </a>
 </p>
 
